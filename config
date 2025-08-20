@@ -1,0 +1,22 @@
+# Font configs
+font-size = 13
+bold-is-bright = true
+font-feature = -calt, -liga, -dlig
+
+# Cursor configs
+cursor-invert-fg-bg = true
+
+# Appearance configs
+theme = catppuccin-mocha
+window-theme = ghostty
+gtk-titlebar = false
+adw-toolbar-style = flat
+
+# Terminal window configs
+window-height = 36
+window-width = 160
+window-padding-x = 4
+window-padding-y = 4
+
+# Misc
+clipboard-paste-protection = false
