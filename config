@@ -21,3 +21,7 @@ window-padding-y = 4
 
 # Misc
 clipboard-paste-protection = false
+
+# keybindings
+keybind = ctrl+shift+u=scroll_page_lines:-6
+keybind = ctrl+shift+d=scroll_page_lines:6
