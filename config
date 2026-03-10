@@ -4,13 +4,14 @@ bold-is-bright = true
 font-feature = -calt, -liga, -dlig
 
 # Cursor configs
-cursor-invert-fg-bg = true
+cursor-color = cell-foreground
+cursor-text = cell-background
 
 # Appearance configs
-theme = catppuccin-mocha
+theme = Catppuccin Mocha
 window-theme = ghostty
 gtk-titlebar = false
-adw-toolbar-style = flat
+gtk-toolbar-style = flat
 
 # Terminal window configs
 window-height = 36
